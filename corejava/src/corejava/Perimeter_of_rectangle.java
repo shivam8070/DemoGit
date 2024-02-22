@@ -10,9 +10,9 @@ public class Perimeter_of_rectangle {
 		Scanner sc=new Scanner (System.in);
 		int length=sc.nextInt();
 		int breath=sc.nextInt();
-		System.out.println();
+		System.out.println("perimeter="+(2*(length+breath)));
 		
-
+		
 	}
 
 }
